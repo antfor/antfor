@@ -1,6 +1,8 @@
-### Hi there 👋
+<img src="./mandelbrot-4k.png" width="100%" height="100%" />
 
 <!--
+### Hi there 👋
+
 **antfor/antfor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
