@@ -1,4 +1,25 @@
-<img src="./mandelbrot-4k.png" width="100%" height="100%" />
+<style>
+.green {
+    color: green;
+    font-weight:700;
+    font-size: 30px;
+}
+</style>
+
+<div class="green">
+    Markdown css styles
+</div>
+
+<style>
+  .crop {
+    object-fit: cover;
+    width: 100%;
+    height: 200px;
+    object-position: center 50%;
+  }
+</style>
+
+<img class="crop" src="./mandelbrot-4k.png"/>
 
 <!--
 ### Hi there 👋
