@@ -1,0 +1,17 @@
+<svg fill="none" viewBox="0 0 1024 200" width="1024" height="200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+     <style>
+      .crop {
+        object-fit: cover;
+        width: 100%;
+        height: 200px;
+        object-position: center 50%;
+      }
+    </style>
+
+    <img class="crop" src="./mandelbrot-4k.png"/>
+    
+    </div>
+  </foreignObject>
+</svg>
